@@ -1,0 +1,10 @@
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\bin\Debug\BackupMonitor.exe.config
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\bin\Debug\BackupMonitor.exe
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\bin\Debug\BackupMonitor.pdb
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\obj\Debug\BackupMonitor.csprojResolveAssemblyReference.cache
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\obj\Debug\BackupMonitor.exe
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\obj\Debug\BackupMonitor.pdb
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\bin\Debug\BackupMonitor.exe.manifest
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\bin\Debug\BackupMonitor.application
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\obj\Debug\BackupMonitor.exe.manifest
+c:\users\agustin\dropbox\documents\visual studio 2015\Projects\BackupMonitor\BackupMonitor\obj\Debug\BackupMonitor.application
