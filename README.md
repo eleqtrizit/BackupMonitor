@@ -19,7 +19,7 @@ mailserver=mail.yourcompany.com<br>
 checklist=c:\BackupMonitor\BackupCheckList.cfg
 
 ### BackupCheckList.cfg
-Z:\Backups\Servers\AD\c	*
+Z:\Backups\Servers\AD\c	*<br>
 Z:\LinuxStaging\image1\home\backups\mysql	*dump.gz
 
 First one means check that path on Z: for _any_ file.
