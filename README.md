@@ -13,9 +13,9 @@ The program should also check size of the files, to make sure they are not empty
 There are two sample config files included in the project, BackupCheck.cfg and BackupCheckList.cfg.  
 
 ### BackupCheck.cfg
-to=adminalerts@yourcompany.com
-from=backupCheck@yourcompany.com
-mailserver=mail.yourcompany.com
+to=adminalerts@yourcompany.com<br>
+from=backupCheck@yourcompany.com<br>
+mailserver=mail.yourcompany.com<br>
 checklist=c:\BackupMonitor\BackupCheckList.cfg
 
 ### BackupCheckList.cfg
