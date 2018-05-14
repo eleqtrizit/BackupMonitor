@@ -22,6 +22,6 @@ checklist=c:\BackupMonitor\BackupCheckList.cfg
 Z:\Backups\Servers\AD\c	*<br>
 Z:\LinuxStaging\image1\home\backups\mysql	*dump.gz
 
-First one means check that path on Z: for _any_ file.
+First one means check that path on Z: for _any_ file.<br>
 The seconds one means check that path on Z: for files ending in dump.gz
 
